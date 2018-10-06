@@ -1,0 +1,7 @@
+﻿{
+  "LogRootPath": "LocalFolder",
+  "LogLayout":  "%s",
+  "FileName": "sample.log",
+  "LogLevel":  "All",
+  "RotateType": "None" 
+}
